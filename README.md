@@ -20,8 +20,3 @@
 - **Styling:** Used Tailwind CSS for rapid utility-first styling and consistent design.
 - **Navigation:** Simple button-based tab navigation to avoid routing complexity and keep UI minimal.
 
-## Features
-
-- Add notes with title and content.
-- View list of notes with title and content snippet.
-- Error handling and loading indicators for storage operations.
