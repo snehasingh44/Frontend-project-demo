@@ -12,7 +12,7 @@
    npm start
    ```
 
-## Why? Decisions
+## Why?
 
 - **Storage Strategy:** Used `localStorage` with key `custom-note-service-notes` for simple client-side persistence without backend complexity.
 - **Component Design:** Separated concerns into `AddNote`, `NotesList`, and `Navigation` for clarity and reusability.
